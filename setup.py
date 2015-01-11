@@ -105,6 +105,7 @@ setup(
         'mpdstats': ['python-mpd'],
         'web': ['flask'],
         'import': ['rarfile'],
+        'fs': ['fusepy'],
     },
     # Non-Python/non-PyPI plugin dependencies:
     # replaygain: mp3gain || aacgain
